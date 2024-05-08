@@ -1,3 +1,3 @@
 - 👋 Heyyyooo, I’m @antonburmester
 - 👀 I’m interested in very very much;)
-- 📫 How to reach me burmesterfinance@gmail.com
+- 📫 How to reach me antonfburmester@gmail.com
