@@ -1,3 +1,5 @@
-- 👋 Heyyyooo, I’m @antonburmester
-- 👀 I’m interested in very very much;)
-- 📫 How to reach me antonfburmester@gmail.com
+- 👋 Hi, I'm Anton!
+- 🎓 I'm studying Business Informatics (B.Sc.), specializing in Computer Science at FH Wedel, Germany.
+- 💻 I'm passionate about software development, algorithms, networking, and exploring new technologies.
+- 🚀 I enjoy building software projects and improving my programming skills.
+- 📫 How to reach me: antonfburmester@gmail.com
